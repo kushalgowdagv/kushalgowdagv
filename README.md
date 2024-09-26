@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Kushal</h1>
+<h3 align="center">A passionate Quant.</h3>
+
+- 🔭 I’m currently Pursuing at **Master's in Financial Engineering**
+- 📫 How to reach me **kug322@lehigh.edu**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kushalgowdagv) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Dramatic-Pop389) 
