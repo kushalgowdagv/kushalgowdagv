@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal</h1>
 <h3 align="center">A passionate Quant.</h3>
 
-- 🔭 I’m currently Pursuing at **Master's in Financial Engineering**
+- 🔭 I’m currently a **Assoc Quantitative Researcher and Developer**
 - 📫 How to reach me **kug322@lehigh.edu**
 
 ## 🌐 Socials:
